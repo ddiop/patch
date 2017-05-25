@@ -1,0 +1,18 @@
+{
+	"uid" 		: 	"815ab45f-509f-41a1-ac34-073c8edbe0ea",
+	"lastName" 	:  	"Planson",
+	"firstName"	:	"Olivier",
+	"adress"	:	"2 villa",
+	"profiles"	: 	[
+		{
+			"email"		:	"olivier.planson@fr.ibm.com",
+			"location"	:	"Professionel"
+		},
+		{
+			"email"		:	"olivier.planson@",
+			"location"	:	"Personnel"
+		}
+				],
+	"birthDate"	:	"20/10/2000"
+}
+
