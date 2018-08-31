@@ -22,6 +22,7 @@ public class Jackson {
 	public final static String fPatch3 = path + "CustomerPatch3.json";
 	public final static String fWriter = path + "CustomerWrite.json";
 // test
+// test
 	public static void main(String[] args) {
 		try {
 			// Instanciation ObjectMapper
